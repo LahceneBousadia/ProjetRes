@@ -1,0 +1,191 @@
+.tablenewres {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+#detail_id {
+    color: #0f2853;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin: 20px;
+}
+
+#nom {
+    color: #1c2d4b;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 20px;
+    text-align: auto;
+    margin: 40px;
+}
+
+#borough {
+    color: #1c2d4b;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 20px;
+    text-align: auto;
+    margin: 40px;
+}
+
+#cuisine {
+    color: #1c2d4b;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 20px;
+    text-align: auto;
+    margin: 40px;
+}
+
+#titre {
+    color: #0f2853;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin: 10px;
+}
+
+
+#stylebody {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #065b2b;
+    background-color: #d6d6d6;
+}
+
+#img {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: right;
+    width: 20%;
+    margin-top: -6%;
+    margin-left: 90%;
+
+}
+
+#row {
+    background-color: rgb(255, 0, 0);
+}
+
+#card {
+    text-align: right;
+}
+
+#parag {
+    margin-top: 3%;
+    text-align: left;
+    margin-left: 3%;
+    font-size: large;
+}
+
+#container {
+    color: #065b2b;
+}
+
+#title {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 13px;
+    text-align: right;
+    margin-right: -9%;
+}
+
+#mainHeader {
+    background: rgb(239, 240, 238);
+    font-family: "Anton", Arial, sans-serif;
+}
+
+#title {
+    color: #448aff;
+    position: relative;
+    text-transform: uppercase;
+    text-shadow: -15px 5px 20px #ced0d3;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Lato, sans-serif;
+    user-select: none;
+    text-transform: uppercase;
+    font-size: 25px;
+    transition: all 0.25s ease-out;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+}
+
+.search {
+    color: #ff0000;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin: 10px;
+}
+
+#titre {
+    color: #0f2853;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin: 10px;
+}
+
+#email {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 13px;
+    text-align: right;
+    margin-right: -9%;
+}
+
+#boutton-lien {
+    background-color: #777777;
+    /* Green */
+    border: 1px;
+    color: white;
+    padding: 10px 15px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: "Anton", Arial, sans-serif;
+    margin-right: -5%;
+}
+#courant{
+    color: #0f2853;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Anton", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin: 10px;
+}
+
+#next{
+    font-size: small;
+}
+
+#prev{
+    font-size: small;
+}
